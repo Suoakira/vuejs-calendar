@@ -17,11 +17,6 @@ See the completed project here: [http://vuejs-calendar.vuejsdevelopers.com/](htt
     1. Fork this repository (click 'Fork' button in top right corner)
     2. Clone the forked repository on your local file system
     
-        ```
-        cd /path/to/install/location
-        
-        git clone https://github.com/[your_username]/vuejs-calendar.git
-        ```  
    
 2. Change into directory
 
@@ -50,49 +45,4 @@ See the completed project here: [http://vuejs-calendar.vuejsdevelopers.com/](htt
     npm run start
     ```
 
-Your site will be available at *localhost:[PORT]* where `PORT` is whatever value is set in your `.env` file.
 
-## Sponsors
-
-<a href="https://vueschool.io" target="_blank"><img src="https://vueschool.io/img/logo/vueschool_logo_multicolor.svg" height="40" alt="Vue School"/></a>
-
-[Support Vue.js Developers](https://www.patreon.com/anthonygore?utm-source=github-vjd&utm-medium=link&utm_campaign=sponsors) to get your logo here.
-
-## Lecture branches
-
-Each branch of of the repo shows the state of the code at the end of any particular video e.g. `video/06` shows the state at the end of video 6.
-
-If you want the initial state of the code, use the `master` branch.
-
-If you're doing the *Vue.js Essentials - 3 Course Bundle* course on Udemy, you'll need the following conversion table to match the branch to the lecture number.
-
-| Lecture # | Branch name |
-| - | - |
-| 121 | video/02 |
-| 125 | video/06 |
-| 126 | video/07 |
-| 128 | video/09 |
-| 129 | video/10 |
-| 134 | video/15 |
-| 136 | video/17 |
-| 137 | video/18 |
-| 138 | video/19 |
-| 139 | video/20 |
-| 141 | video/22 |
-| 142 | video/23 |
-| 144 | video/25 |
-| 148 | video/29 |
-| 149 | video/30 |
-| 150 | video/31 |
-| 151 | video/32 |
-| 152 | video/33 |
-| 155 | video/36 |
-| 157 | video/38 |
-| 158 | video/39 |
-| 162 | video/43 |
-| 164 | video/45 |
-| 167 | video/48 |
-| 169 | video/50 |
-| 172 | video/53 |
-| 173 | video/54 |
-| 175 | video/56 |
