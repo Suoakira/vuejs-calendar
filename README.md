@@ -1,11 +1,5 @@
 # Vue.js Calendar
 
-Source code for the [Build A Professional Vue App with Vuex & Server-Side Rendering](https://courses.vuejsdevelopers.com/p/build-vue-vuex-app-ssr?utm_source=github-vjd).
-
-#### Demo
-
-See the completed project here: [http://vuejs-calendar.vuejsdevelopers.com/](http://vuejs-calendar.vuejsdevelopers.com/)
-
 #### Pre-installation
 
 - Ensure [Node.js  >=5.10](https://nodejs.org/en/download/), [NPM](https://docs.npmjs.com) and [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) are installed on your system
